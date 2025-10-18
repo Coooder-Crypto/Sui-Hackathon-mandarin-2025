@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube Demo" style="transform: scale(1.2);">
 </a>
 
+这个是旧版的 EVM 的视频，新的版本写了新的 move 合约，并更新了前端的兼容。但是由于突发原因没来得及录制新的视频，后续的 demo 环节会补上的
+
 # Introduction
 In daily consumption scenarios, merchants often use raffles to attract users. However, these activities are often "black boxes." Users cannot verify the fairness of the prizes, and merchants can arbitrarily change the winning rate. This lack of transparency severely damages user trust and reduces participation.
 
